@@ -1,9 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.Exercise2" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.Demor_Cyclefile" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.Exercise2" parent="Base.Theme.Exercise2" />
+    <style name="Theme.Demor_Cyclefile" parent="Base.Theme.Demor_Cyclefile" />
 </resources>
