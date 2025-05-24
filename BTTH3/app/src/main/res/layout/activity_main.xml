@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout orientation="vertical">
+    <Button
+        android:id="@+id/btnAdd"
+        android:text="Thêm hội viên" />
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <LinearLayout ... orientation="vertical">
+          <TextView android:id="@+id/txtName"/>
+          <TextView android:id="@+id/txtCode"/>
+          <TextView android:id="@+id/txtHometown"/>
+          <ImageView android:id="@+id/imgAvatar" />
+          <Button android:id="@+id/btnEdit" android:text="Sửa" />
+          <Button android:id="@+id/btnDelete" android:text="Xóa" />
+    </LinearLayout>
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>

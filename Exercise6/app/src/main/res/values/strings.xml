@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Exercise6</string>
+    <string name="menu_settings">Cài đặt</string>
+    <string name="menu_about">Giới thiệu</string>
+    <string name="settings_selected">Chức năng Cài đặt được chọn!</string>
+    <string name="about_selected">Chức năng Giới thiệu được chọn!</string>
+    <string name="app_name">menu\n</string>
 </resources>
